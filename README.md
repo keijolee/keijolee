@@ -43,7 +43,7 @@ Hi, I'm an ambitious software engineer with over six years of hands-on experienc
 ```text
 JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 %
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 %
-Rust         21 hrs   █████████████████░░░░░░░░   45.6 %
+React         21 hrs   █████████████████░░░░░░░░   45.6 %
 SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 %
 ```
 
@@ -52,10 +52,6 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 ## Main Skill
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)
 ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
@@ -85,6 +81,9 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 
 ##
 
