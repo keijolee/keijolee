@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=keijolee.keijolee)
 
-Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-Great experience in building smart contract on EVM, Binance, Harmony and Solana with Solidity and Rust.
-Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
-Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Anchor.
+Hi, I'm an ambitious software engineer with over six years of hands-on experience in software development, specializing in the web, mobile application, and blockchain development arena. Proficient in a wide range of programming languages, frameworks, databases, and best code practices. Currently on track to become a senior engineer with new position.
 
 <img align="right" alt="GIF" src="https://github.com/keijolee/keijolee/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
