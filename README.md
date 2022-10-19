@@ -21,12 +21,6 @@ Hi, I'm an ambitious software engineer with over six years of hands-on experienc
 
 <img align="right" alt="GIF" src="https://github.com/keijolee/keijolee/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
-### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM & Solana
-
-### Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
-
-### Built DEXs, DAO on EVM and Solana
-
 - 💼 Any freelance work? Do reach, [email](mailto:keijolee0829@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
